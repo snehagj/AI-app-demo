@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multi-RAG Analysis Chat",
+  "description": "A modern chat interface for multi-modal analysis of documents, including PDFs, images, and audio, using Gemini. Each chat is a 'case' for focused study and conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
